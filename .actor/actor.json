@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Download videos from TNAFlix in high-quality MP4 format. This browser extension automatically detects TNAFlix videos and lets you save them to your computer for offline viewing.\n\nChoose from multiple quality options, download multiple videos at once, and track progress with clear indicators. The extension saves videos as standard MP4 files complete with thumbnails and metadata.\n\nAll processing happens locally in your browser for privacy. Works with Chrome, Edge, Firefox, Brave, and Opera on desktop platforms.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "tnaflix-video-downloader",
+  "readme": "../ACTOR.md",
+  "title": "TNAFlix Downloader",
+  "version": "0.0"
+}

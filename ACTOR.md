@@ -1,6 +1,10 @@
-# TNAFlix Downloader (Browser Extension)
+# TNAFlix Video Downloader | How to Download TNAFlix Videos
 
 > Download supported TNAFlix videos as MP4 files directly from active watch pages.
+
+## Get it Here
+
+Get it here: https://serp.ly/tnaflix-video-downloader
 
 ![TNAFlix Downloader](https://raw.githubusercontent.com/serpxxx/tnaflix-video-downloader/main/assets/workflow-preview.webp)
 
@@ -11,11 +15,6 @@ TNAFlix Downloader is a browser extension built for users who want a cleaner way
 - Export MP4 files for easier offline playback
 - Avoid manual URL extraction and stream hunting
 - Keep the process browser-native
-
-## Get it Here
-
-Get it here: https://serp.ly/tnaflix-video-downloader
-
 ## Table of Contents
 
 - [Why TNAFlix Downloader](#why-tnaflix-downloader)

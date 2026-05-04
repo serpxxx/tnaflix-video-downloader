@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "tnaflix-video-downloader",
   "readme": "../ACTOR.md",
-  "title": "TNAFlix Downloader",
+  "title": "TNAFlix Video Downloader | How to Download TNAFlix Videos",
   "version": "0.0"
 }
